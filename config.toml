@@ -21,7 +21,7 @@ enableRobotsTXT = true
 [params]
 author = "Christoph Glaubitz"
 intro = "Working under the clouds"
-description = "Now @iNNOVO Cloud GmbH. Previously @SysEleven, @neofonie and @Zettwerk. <br/>"
+description = "Now @German Edge Cloud. Previously @SysEleven, @neofonie and @Zettwerk. <br/>"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
