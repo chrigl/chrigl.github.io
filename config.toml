@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://chrigl.github.io"
+baseurl = "https://chrigl.dev"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
