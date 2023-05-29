@@ -16,14 +16,5 @@
 My current role is called &amp;ldquo;Cloud Architect&amp;rdquo;, and I&amp;rsquo;m primarily working in the cloud infrastructure sphere. This includes everything from getting a server installed, and connected to the dedicated cluster, keeping it up to date, as well as logging and monitoring for all the services. My main focused is on Kubernetes and OpenStack. I&amp;rsquo;m very deep in forcing Design Documents as an entrypoint for discussions, as well as documentation of the results.</description>
     </item>
     
-    <item>
-      <title>Contact</title>
-      <link>https://chrigl.dev/contact/</link>
-      <pubDate>Sat, 07 Apr 2018 21:53:50 +0200</pubDate>
-      
-      <guid>https://chrigl.dev/contact/</guid>
-      <description>Christoph Glaubitz, Streustr. 57, 13086 Berlin</description>
-    </item>
-    
   </channel>
 </rss>
