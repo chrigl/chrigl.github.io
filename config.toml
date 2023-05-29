@@ -20,8 +20,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Christoph Glaubitz"
-intro = "Working under the clouds"
-description = "Now @SysEleven. Previously @German Edge Cloud, @neofonie and @Zettwerk. <br/>"
+intro = ""
+description = "cyclist, runner, doing computer stuff for living"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -35,12 +35,11 @@ keywords = "minimalist,blog,gopher,go,python,kubernetes,openstack,developer"
 github = "chrigl"
 xing = "Christoph_Glaubitz"
 linkedin = "chrigl"
-twitter = "chrigl_"
 email = "chris@glaubitz.berlin"
 
 ## Extras
 [params.extra]
-copyright = "© 2020. Christoph Glaubitz. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2023. Christoph Glaubitz. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 
@@ -50,13 +49,3 @@ highlightjs = true
     identifier = "about"
     weight = 100
     url = "/about/"
-[[menu.main]]
-    name = "blog"
-    weight = 200
-    identifier = "blog"
-    url = "https://chrigl.de/"
-[[menu.main]]
-    name = "contact"
-    identifier = "contact"
-    weight = 300
-    url = "/contact/"
